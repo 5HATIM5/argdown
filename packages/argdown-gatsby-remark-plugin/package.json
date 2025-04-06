@@ -27,7 +27,7 @@
   "devDependencies": {},
   "dependencies": {
     "@argdown/remark-plugin": "^1.7.4",
-    "to-vfile": "^7.2.1"
+    "to-vfile": "^8.0.0"
   },
   "browserslist": [
     "last 2 Chrome versions"
